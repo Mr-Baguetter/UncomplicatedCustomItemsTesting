@@ -10,7 +10,7 @@ using UncomplicatedCustomItems.Interfaces;
 using UncomplicatedCustomItems.Interfaces.SpecificData;
 
 namespace UncomplicatedCustomItems.API
-{
+{// :3
     public static class Utilities
     {
         /// <summary>

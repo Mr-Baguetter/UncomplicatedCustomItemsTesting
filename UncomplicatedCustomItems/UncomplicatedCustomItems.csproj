@@ -493,7 +493,6 @@
     <Compile Include="Commands\BaseCommand.cs" />
     <Compile Include="Commands\User\Use.cs" />
     <Compile Include="Config.cs" />
-    <Compile Include="API\Features\CustomItem.cs" />
     <Compile Include="API\Features\SpecificData\ArmorData.cs" />
     <Compile Include="API\Features\SpecificData\Data.cs" />
     <Compile Include="API\Features\SpecificData\ExplosiveGrenadeData.cs" />
